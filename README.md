@@ -34,7 +34,7 @@ This project showcases a timer control system using a GUI built with Qt and an A
    - Install Qt and set up the development environment.
    - Clone this repository:
      ```bash
-     git clone https://github.com/yourusername/timer-control-system.git
+     git clone https://github.com/Abdulrhman-Nasser/TimerApp_Qt.git
      ```
    - Open the Qt project file in Qt Creator.
    - Configure the serial port settings in the code to match your hardware configuration.
